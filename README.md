@@ -6,7 +6,7 @@ A Frontend Engineer specialising in JavaScript technologies. Professional experi
 
 I am starting out my technical writing journey (*under my breath*-"wish me luck" 🤞) about Web Development, JavaScript but I will also write about topics other than these, like how to balance life outside these two and more!
 
-I have managed to create an online presence with my <a href="https://www.jennievon.dev">Blog</a>
+I have managed to create an online presence with my <a href="https://www.jennievon.com">Blog</a>
 
 ---
 
