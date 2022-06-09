@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Jennifer Echenim ([@jennievon](https://github.com/jennievon))
+## Hi there! 👋 I'm Jennifer Echenim
 
 #### A solution-driven Software Engineer adept at web development in Web2 & Web3. I like to build products!
 
