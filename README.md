@@ -15,9 +15,7 @@
 
 **Location:** Dubai, United Arab Emirates
 
-**Language:**
-
-- English
+**Language:** English
 
 </details>
 
