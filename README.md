@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Jennifer Echenim
 
-#### A solution-driven Software Engineer adept at web development in Web2 & Web3. I like to build products!
+#### A solution-driven Software Engineer adept at web development in Web2 & Web3. I love to build products!
 
 [![GitHub jennievon](https://img.shields.io/github/followers/jennievon?label=follow&style=social&cacheSeconds=86400)](https://github.com/jennievon)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Jennie_von?style=social)
@@ -36,7 +36,7 @@
   <b>Technologies</b>
 </summary>
   
-- JavaScript/Typescript, React, Vue, Angular, Web3
+- JavaScript/Typescript, React, Vue, Angular, Web3js, ethers, Solidity, Go(wip ;))
 
 </details>
 
