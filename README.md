@@ -1,13 +1,18 @@
 # 👋🏽 Senior Frontend & Developer Relations Engineer
 
-I'm a Senior Frontend Engineer and Developer Relations Engineer specializing in blockchain and web3 development. I bridge the gap between complex technical implementations and developer experience, focusing on making web3 technologies more accessible and easier to integrate.
+Hi there! I'm Jennifer, a passionate builder and advocate for Web3 technologies. My mission is to empower developers with tools, resources, and education to build the decentralized future. I specialize in bridging the gap between complex blockchain implementations and seamless developer experiences. 
+
+I’m not just passionate about building products; I’m equally driven by empowering communities. As a founding team member of Web3Afrika and Web3Ladies, I work to onboard underrepresented groups into Web3. I’m also a co-organizer at GDG Sharjah, part of Women in Tech Dubai, and the co-founder of Bloccpay—a startup revolutionizing cross-border payments. Giving back through mentorship and community-building is central to who I am.
 
 ### What I Do
 - 🔨 Build robust frontend applications with TypeScript and React
 - ⛓️ Develop blockchain integrations using Ethers.js and modern web3 libraries
-- 🌉 Create developer-friendly documentation and technical content
-- 🎓 Help teams adopt web3 technologies through education and tooling
-- 🏗️ Architect solutions using domain-driven design principles
+- 🌉 Create developer-friendly documentation, tooling, and technical content
+- 🎓 Educate teams and individuals on adopting web3 technologies
+- 🏗️ Architect scalable solutions using domain-driven design principles
+- 🎤 Speak at conferences and host workshops to demystify blockchain concepts
+- 🫂 Mentor and onboard underrepresented groups into Web3 through communities like Web3Ladies and Web3Afrika
+- 🌟 Advocate for diversity and inclusion in tech spaces as part of GDG Sharjah and Women in Tech Dubai
 
 ## 🛠 Tech Stack
 
@@ -47,6 +52,11 @@ I'm a Senior Frontend Engineer and Developer Relations Engineer specializing in 
 - 🔷 **Web3 Integration**: Implementing wallet connections, transaction handling, and contract interactions
 - 🔷 **Developer Tools**: Building tools to improve the web3 development experience
 - 🔷 **Blockchain Indexing**: Creating efficient data indexing solutions with Ponder
+- 🔷 **[Bloccpay](https://github.com/Bloccpay)**: Revolutionizing cross-border payments using stablecoins and Layer 2 solutions
+- 🔷 **Web3Ladies**: Founding team member, driving initiatives to onboard and mentor women into the Web3 ecosystem.
+- 🔷 **Web3Afrika**: Founding team member, empowering African builders in the decentralized economy.
+- 🔷 **Women in Tech Dubai**: Contributor to fostering a network for women in STEM fields.
+- 🔷 **GDG Sharjah**: Co-organizer, creating a local tech community and hosting events.
 
 ## 📊 GitHub Stats
 
@@ -59,14 +69,20 @@ I'm a Senior Frontend Engineer and Developer Relations Engineer specializing in 
 
 <p align="left">
 <a href="https://linkedin.com/in/jennifer-echenim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https:///x.com/jenniferechenim"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://x.com/jenniferechenim"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="mailto:echenimjennifer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+## 📚 Learning & Collaboration
 
-<p> 📚 <strong>Learning</strong>: Cross-chain development, L2 scaling solutions (zkSync, Arbitrum, Optimism), and blockchain interoperability patterns</p>
-<p> 🤝 <strong>Open to</strong>: Collaboration on Web3 projects and Developer Experience initiatives</p>
+- 📚 **Learning:**
+  - Cross-chain development
+  - L2 scaling solutions (zkSync, Arbitrum, Optimism)
+  - Blockchain interoperability patterns
+
+- 🤝 **Open to:**
+  - Collaboration on Web3 projects
+  - Developer Experience initiatives
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=4F94EF&center=true&width=1000&height=52&lines=SENIOR+FRONTEND+ENGINEER;DEVELOPER+RELATIONS+ENGINEER;WEB3+DEVELOPER)](https://git.io/typing-svg)
 
