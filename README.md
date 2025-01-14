@@ -1,8 +1,8 @@
 # 👋🏽 Senior Frontend & Developer Relations Engineer
 
-Hi there! I'm Jennifer, a passionate builder and advocate for Web3 technologies. My mission is to empower developers with tools, resources, and education to build the decentralized future. I specialize in bridging the gap between complex blockchain implementations and seamless developer experiences. 
+Hi there! I'm Jennifer, a passionate builder and advocate for Web3 technologies. My mission is to empower developers with tools, resources, and education to build a decentralised future. I specialise in bridging the gap between complex blockchain implementations and seamless developer experiences. 
 
-I’m not just passionate about building products; I’m equally driven by empowering communities. As a founding team member of Web3Afrika and Web3Ladies, I work to onboard underrepresented groups into Web3. I’m also a co-organizer at GDG Sharjah, part of Women in Tech Dubai, and the co-founder of Bloccpay—a startup revolutionizing cross-border payments. Giving back through mentorship and community-building is central to who I am.
+I’m not just passionate about building products; I’m equally driven by empowering communities. As a founding team member of Web3Afrika and Web3Ladies, I work to onboard underrepresented groups into Web3. I’m also a co-organiser at GDG Sharjah, part of Women in Tech Dubai, and the co-founder of Bloccpay—a startup revolutionising cross-border payments. Giving back through mentorship and community-building is central to who I am.
 
 ### What I Do
 - 🔨 Build robust frontend applications with TypeScript and React
@@ -16,17 +16,17 @@ I’m not just passionate about building products; I’m equally driven by empow
 
 ## 🌟 Highlighted Projects
 
-### Bloccpay: Revolutionizing Cross-Border Payments
+### Bloccpay: Revolutionising Cross-Border Payments
 ![Bloccpay](https://via.placeholder.com/400x200?text=Bloccpay+Image+Placeholder)
-[Explore Bloccpay](https://github.com/Bloccpay)
+[Explore Bloccpay](https://bloccpay.com/)
 
 ### Web3Ladies: Empowering Women in Web3
 ![Web3Ladies](https://via.placeholder.com/400x200?text=Web3Ladies+Image+Placeholder)
 [Learn More](https://web3ladies.com)
 
-### Web3Afrika: Building the Decentralized Future in Africa
+### Web3Afrika: Building the Decentralised Future in Africa
 ![Web3Afrika](https://via.placeholder.com/400x200?text=Web3Afrika+Image+Placeholder)
-[Discover More](https://web3afrika.org)
+[Discover More](https://web3afrika.com)
 
 ## 🛠 Tech Stack
 
@@ -62,21 +62,21 @@ I’m not just passionate about building products; I’m equally driven by empow
 ## 🌐 Web3 Projects & Contributions
 
 - 🔷 **Smart Contract Development**: Building Solidity smart contracts
-- 🔷 **DApp Architecture**: Creating scalable frontend architectures for decentralized applications
+- 🔷 **DApp Architecture**: Creating scalable frontend architectures for decentralised applications
 - 🔷 **Web3 Integration**: Implementing wallet connections, transaction handling, and contract interactions
 - 🔷 **Developer Tools**: Building tools to improve the web3 development experience
 - 🔷 **Blockchain Indexing**: Creating efficient data indexing solutions with Ponder
-- 🔷 **[Bloccpay](https://github.com/Bloccpay)**: Revolutionizing cross-border payments using stablecoins and Layer 2 solutions
+- 🔷 **[Bloccpay](https://bloccpay.com/)**: Revolutionising cross-border payments using stablecoins and Layer 2 solutions
 - 🔷 **Web3Ladies**: Founding team member, driving initiatives to onboard and mentor women into the Web3 ecosystem.
-- 🔷 **Web3Afrika**: Founding team member, empowering African builders in the decentralized economy.
+- 🔷 **Web3Afrika**: Founding team member, empowering African builders in the decentralised economy.
 - 🔷 **Women in Tech Dubai**: Contributor to fostering a network for women in STEM fields.
-- 🔷 **GDG Sharjah**: Co-organizer, creating a local tech community and hosting events.
+- 🔷 **GDG Sharjah**: Co-organiser, creating a local tech community and hosting events.
 
 ## 🏆 Recognition & Media
 
 - Featured speaker at [Web3 Summit](https://web3summit.com)
 - Panelist at [Women in Tech Conference](https://womenintech.com)
-- Recognized by [TechWorld](https://techworld.com) for contributions to Web3 development
+- Recognised by [TechWorld](https://techworld.com) for contributions to Web3 development
 
 ## 📊 GitHub Stats
 
