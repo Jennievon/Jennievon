@@ -14,6 +14,20 @@ I’m not just passionate about building products; I’m equally driven by empow
 - 🫂 Mentor and onboard underrepresented groups into Web3 through communities like Web3Ladies and Web3Afrika
 - 🌟 Advocate for diversity and inclusion in tech spaces as part of GDG Sharjah and Women in Tech Dubai
 
+## 🌟 Highlighted Projects
+
+### Bloccpay: Revolutionizing Cross-Border Payments
+![Bloccpay](https://via.placeholder.com/400x200?text=Bloccpay+Image+Placeholder)
+[Explore Bloccpay](https://github.com/Bloccpay)
+
+### Web3Ladies: Empowering Women in Web3
+![Web3Ladies](https://via.placeholder.com/400x200?text=Web3Ladies+Image+Placeholder)
+[Learn More](https://web3ladies.com)
+
+### Web3Afrika: Building the Decentralized Future in Africa
+![Web3Afrika](https://via.placeholder.com/400x200?text=Web3Afrika+Image+Placeholder)
+[Discover More](https://web3afrika.org)
+
 ## 🛠 Tech Stack
 
 ### Frontend
@@ -58,6 +72,12 @@ I’m not just passionate about building products; I’m equally driven by empow
 - 🔷 **Women in Tech Dubai**: Contributor to fostering a network for women in STEM fields.
 - 🔷 **GDG Sharjah**: Co-organizer, creating a local tech community and hosting events.
 
+## 🏆 Recognition & Media
+
+- Featured speaker at [Web3 Summit](https://web3summit.com)
+- Panelist at [Women in Tech Conference](https://womenintech.com)
+- Recognized by [TechWorld](https://techworld.com) for contributions to Web3 development
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -89,3 +109,9 @@ I’m not just passionate about building products; I’m equally driven by empow
 <a href="https://github.com/Jennievon/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Jennievon&style=for-the-badge">
 </a>
+
+### 🎨 Beyond Code
+
+- 🎸 Guitar enthusiast
+- 🤸‍♀️ Aerial silks and yoga practitioner
+- 🖌️ Doodler exploring digital and physical art
