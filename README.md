@@ -16,17 +16,14 @@ I’m not just passionate about building products; I’m equally driven by empow
 
 ## 🌟 Highlighted Projects
 
-### Bloccpay: Revolutionising Cross-Border Payments
-![Bloccpay](https://via.placeholder.com/400x200?text=Bloccpay+Image+Placeholder)
-[Explore Bloccpay](https://bloccpay.com/)
+### [Bloccpay](https://bloccpay.com/): Revolutionising Cross-Border Payments
+<img width="500" alt="Screenshot 2025-01-15 at 4 01 20 am" src="https://github.com/user-attachments/assets/78c76c24-81b1-4ec6-acd8-ba7723d7e90b" />
 
-### Web3Ladies: Empowering Women in Web3
-![Web3Ladies](https://via.placeholder.com/400x200?text=Web3Ladies+Image+Placeholder)
-[Learn More](https://web3ladies.com)
+### [Web3Ladies](https://web3ladies.com): Empowering Women in Web3
+<img width="500" alt="Screenshot 2025-01-15 at 3 59 02 am" src="https://github.com/user-attachments/assets/b3bde7f2-df59-433c-9d38-1792268ec2a5" />
 
-### Web3Afrika: Building the Decentralised Future in Africa
-![Web3Afrika](https://via.placeholder.com/400x200?text=Web3Afrika+Image+Placeholder)
-[Discover More](https://web3afrika.com)
+### [Web3Afrika](https://web3afrika.com): Building the Decentralised Future in Africa
+<img width="500" alt="Screenshot 2025-01-15 at 4 02 06 am" src="https://github.com/user-attachments/assets/57c24963-b4f2-4f3c-9284-5a67106e9406" />
 
 ## 🛠 Tech Stack
 
@@ -74,7 +71,7 @@ I’m not just passionate about building products; I’m equally driven by empow
 
 ## 🏆 Recognition & Media
 
-- Featured speaker at [Web3 Summit](https://web3summit.com)
+- Panelist at [ETHSafari](https://web3summit.com)
 - Panelist at [Women in Tech Conference](https://womenintech.com)
 - Recognised by [TechWorld](https://techworld.com) for contributions to Web3 development
 
