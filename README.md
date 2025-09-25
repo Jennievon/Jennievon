@@ -3,7 +3,7 @@
 #### A solution-driven Software Engineer adept at web development in Web2 & Web3. I love to build products!
 
 [![GitHub jennievon](https://img.shields.io/github/followers/jennievon?label=follow&style=social&cacheSeconds=86400)](https://github.com/jennievon)
-![Twitter Follow](https://img.shields.io/twitter/follow/Jennie_von?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/jenniferechenim?style=social)
 [![Linkedin jennievon](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jennifer-echenim)](https://www.linkedin.com/in/jennifer-echenim)
 
 <details>
